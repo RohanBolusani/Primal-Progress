@@ -1,2 +1,2 @@
 # hackInTheNorth-Team10-
-lab log
+Lab Log
